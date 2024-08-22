@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-- **Name:** [Project Name]
+- **Name:** Novel-Retrieval
 - **Objective:** To create the largest open-source community focused on analyzing, visualizing, and understanding novels available through Project Gutenberg.
 - **Core Values:** Open-source, collaboration, transparency, community-driven, innovation.
 
