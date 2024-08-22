@@ -1,6 +1,4 @@
-# Novel-Retrieval
-
-# World's Largest Open Source Community for Open Novel Analysis, Visualization, and Understanding
+# Novel-Retrieval: World's Largest Open Source Community for Open Novel Analysis, Visualization, and Understanding
 
 ## Project Overview
 
